@@ -5,10 +5,10 @@ Sales are increasing, but profits are inconsistent across products and regions. 
 
 ## What would be the Objective then?
 Analyze:
-1)revenue trends
-2)customer behavior
-3)product profitability
-4)regional performance
+- 1)revenue trends
+- 2)customer behavior
+- 3)product profitability
+- 4)regional performance
 
 ## Tools I would be using are-
 - SQL
